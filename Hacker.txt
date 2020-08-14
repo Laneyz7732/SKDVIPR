@@ -1,0 +1,3 @@
+selenium
+selenium.webdriver.support.ui
+colorama
