@@ -1,0 +1,5 @@
+Download:https://git-scm.com/download/win 
+https://www.python.org/ftp/python/3.8.5/python-3.8.5.exe
+
+
+Go to cmd prompt and type: git clone
