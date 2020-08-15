@@ -2,4 +2,13 @@ Download:https://git-scm.com/download/win
 https://www.python.org/ftp/python/3.8.5/python-3.8.5.exe
 
 
-Go to cmd prompt and type: git clone
+Go to cmd prompt and type: git clone https://github.com/Laneyz7732/SKDVIPR.git
+
+type cd skdvipr1 after its done cloning
+
+pip install -r requirements.txt in the command prompt
+
+python main.py into command prompt
+
+enter username
+done
